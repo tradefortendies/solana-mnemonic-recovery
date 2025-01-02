@@ -1,0 +1,4 @@
+node_modules/
+found_wallets.txt
+.DS_Store
+*.log
